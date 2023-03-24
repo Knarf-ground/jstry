@@ -1,2 +1,0 @@
-# jstry
-Javascript resources
